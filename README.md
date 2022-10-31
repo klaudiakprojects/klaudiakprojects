@@ -1,4 +1,4 @@
-Hi! I'm Klaudia and I'm looking for a chance to get into software testing. 
+Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a software tester.
 
 # TECH:
 * SQL
@@ -13,6 +13,7 @@ Hi! I'm Klaudia and I'm looking for a chance to get into software testing.
 * TestLink
 * qTest
 * Chrome DevTools
+* Selenium IDE
 * PicPick
 * Sharex
 
