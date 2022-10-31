@@ -1,4 +1,4 @@
-Hi! I'm Klaudia and I'm software tester. 
+Hi! I'm Klaudia and I'm looking for a chance to get into software testing. 
 
 # TECH:
 * SQL
@@ -22,3 +22,4 @@ Hi! I'm Klaudia and I'm software tester.
 
 # SKILLS:
 * Creating test scenarios and test cases
+* Reporting bugs
