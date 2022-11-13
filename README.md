@@ -13,6 +13,7 @@ Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a soft
 * TestLink
 * qTest
 * Chrome DevTools
+* GIT
 * Selenium IDE
 * PicPick
 * Sharex
