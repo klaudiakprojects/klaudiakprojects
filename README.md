@@ -25,3 +25,5 @@ Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a soft
 # SKILLS:
 * Creating test scenarios and test cases
 * Reporting bugs
+
+Also I'm currently learning JavaScript and Cypress.
