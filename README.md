@@ -1,11 +1,11 @@
 Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a software tester.
 
 # TECH:
+* JavaScript
+* Cypress
 * SQL
 * HTML
 * CSS
-
-Also I'm currently learning JavaScript and Cypress.
 
 # TOOLS:
 * Jira
@@ -21,6 +21,7 @@ Also I'm currently learning JavaScript and Cypress.
 * Sharex
 
 # COURSES:
+* Basics of Cypress - test automation - February, 2023
 * Basics of manual software testing - Udemy, October 2022
 * Practical software tester course - Udemy, October 2022
 
