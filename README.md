@@ -25,6 +25,10 @@ Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a soft
 * Basics of manual software testing - Udemy, October 2022
 * Practical software tester course - Udemy, October 2022
 
+IN PROGRESS:
+* The Complete Cypress v12 Course: From Zero to Expert! [2023]
+
 # SKILLS:
 * Creating test scenarios and test cases
 * Reporting bugs
+
