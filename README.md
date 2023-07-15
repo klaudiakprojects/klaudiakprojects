@@ -1,4 +1,4 @@
-Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a software tester.
+Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a software tester. I am open to both manual positions and positions related to test automation in Cypress.
 
 #PROJECTS:
 * [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
