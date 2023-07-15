@@ -1,5 +1,10 @@
 Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a software tester.
 
+#PROJECTS:
+* TodoApp with Automation Testing in Cypress (https://github.com/klaudiakprojects/todoapp)
+* Manual Test Cases (https://github.com/klaudiakprojects/basic-form)
+* Automation Testing in Cypress (https://github.com/klaudiakprojects/automationexercisetesting)
+
 # TECH:
 * JavaScript
 * Cypress
@@ -27,6 +32,7 @@ Hi! I'm Klaudia and I'm looking for a opportunity to develop my skills as a soft
 
 IN PROGRESS:
 * The Complete Cypress v12 Course: From Zero to Expert! [2023]
+* Selenium Java Course From Basics
 
 # SKILLS:
 * Creating test scenarios and test cases
