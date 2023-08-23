@@ -10,6 +10,8 @@ Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a so
 
 # Tech:
 * JavaScript
+* TypeScript
+* Playwright
 * Cypress
 * SQL
 * HTML
