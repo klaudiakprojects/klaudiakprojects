@@ -2,8 +2,9 @@ Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a so
 
 # Projects:
 * [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
-* [Manual Test Cases](https://github.com/klaudiakprojects/basic-form)
+* [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
 * [Automation Testing in Cypress](https://github.com/klaudiakprojects/automationexercisetesting)
+* [Manual Test Cases](https://github.com/klaudiakprojects/basic-form)
 
 # Certifications:
 * ISTQB Certified Tester Foundation Level (April, 2023)
