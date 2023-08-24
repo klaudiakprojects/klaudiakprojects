@@ -1,4 +1,6 @@
-Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a software tester. I am open to both manual positions and positions related to test automation in Cypress/Playwright.
+Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a Software Tester. I am open to both manual positions and positions related to test automation in Cypress/Playwright.
+
+As a Junior Software Tester I bring a combination of skills like analytical thinking, ability to learn fast and detail-oriented mindset. I have passed the ISTQB FL exam and I also want to expand my knowledge in automation testing. I am looking for a company where I would be able to develop my skills
 
 # Projects:
 * [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
