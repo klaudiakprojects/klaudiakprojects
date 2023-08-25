@@ -3,8 +3,8 @@ Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a So
 As a Junior Software Tester I bring a combination of skills like analytical thinking, ability to learn fast and detail-oriented mindset. I have passed the ISTQB FL exam and I also want to expand my knowledge in automation testing. I am looking for a company where I would be able to develop my skills
 
 # Projects:
-* [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
 * [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
+* [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
 * [Automation Testing in Cypress](https://github.com/klaudiakprojects/automationexercisetesting)
 * [Manual Test Cases](https://github.com/klaudiakprojects/basic-form)
 
