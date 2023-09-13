@@ -6,6 +6,7 @@ As a Junior Software Tester I bring a combination of skills like analytical thin
 * [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
 * [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
 * [Automation Testing in Cypress](https://github.com/klaudiakprojects/automationexercisetesting)
+* [Automation Testing in Selenium with Java](https://github.com/klaudiakprojects/java-selenium-automation)
 * [Manual Test Cases](https://github.com/klaudiakprojects/basic-form)
 
 # Certifications:
