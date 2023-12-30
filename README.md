@@ -1,6 +1,4 @@
-Hi, I'm Klaudia, and I'm looking for an opportunity to develop my skills as a Software Tester. I am open to both manual positions and positions related to test automation in JavaScript/TypeScript with Cypress/Playwright.
-
-As a Junior Software Tester I bring a combination of skills like analytical thinking, ability to learn fast and detail-oriented mindset. I have passed the ISTQB FL exam and I also want to expand my knowledge in automation testing. I am looking for a company where I would be able to develop my skills
+Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test automation. I can effectively write tests using JavaScript/TypeScript with testing frameworks such as Playwright and Cypress.
 
 # Projects:
 * [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
