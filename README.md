@@ -1,6 +1,7 @@
 Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test automation. I can effectively write tests using JavaScript/TypeScript with testing frameworks such as Playwright and Cypress.
 
 # Projects:
+* [E-commerce shop in React with testing in Playwright](https://github.com/klaudiakprojects/ecommerce)
 * [Todo App with Backend and testing in Playwright and Cypress](https://github.com/klaudiakprojects/new-todo-app-2024)
 * [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
 * [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
