@@ -23,6 +23,7 @@ Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test
 
 # Tools:
 * Jira
+* Redmine
 * Clickup
 * Trello
 * Postman
@@ -30,9 +31,6 @@ Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test
 * qTest
 * Chrome DevTools
 * GIT
-* Selenium IDE
-* PicPick
-* Sharex
 
 # Courses:
 * Basics of Cypress - test automation - February, 2023
