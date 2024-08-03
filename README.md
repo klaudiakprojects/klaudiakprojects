@@ -17,6 +17,7 @@ Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test
 * TypeScript
 * Playwright
 * Cypress
+* Selenium
 * SQL
 * HTML
 * CSS
