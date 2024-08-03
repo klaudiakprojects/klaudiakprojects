@@ -1,4 +1,4 @@
-Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test automation. I can effectively write tests using JavaScript/TypeScript with testing frameworks such as Playwright and Cypress.
+Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test automation. I can effectively write tests using JavaScript/TypeScript, Java (in progress) with testing frameworks such as Playwright, Cypress and Selenium.
 
 # Projects:
 * [E-commerce website in React with testing in Playwright](https://github.com/klaudiakprojects/ecommerce)
