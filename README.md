@@ -1,16 +1,5 @@
-Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test automation. I can effectively write tests using JavaScript/TypeScript, Java (in progress) with testing frameworks such as Playwright, Cypress and Selenium.
+Hi, I'm Klaudia, and I'm a QA Engineer. I can effectively write tests using JavaScript/TypeScript, Java (in progress) with testing frameworks such as Playwright, Cypress and Selenium.
 
-# Projects:
-* [E-commerce website in React with testing in Playwright](https://github.com/klaudiakprojects/ecommerce)
-* [Todo App with Backend and testing in Playwright and Cypress](https://github.com/klaudiakprojects/new-todo-app-2024)
-* [Automation Testing in Playwright](https://github.com/klaudiakprojects/saucedemo-automation-testing)
-* [TodoApp with Automation Testing in Cypress](https://github.com/klaudiakprojects/todoapp)
-* [Automation Testing in Cypress](https://github.com/klaudiakprojects/automationexercisetesting)
-* [Automation Testing in Selenium with Java](https://github.com/klaudiakprojects/java-selenium-automation)
-* [Manual Test Cases](https://github.com/klaudiakprojects/basic-form)
-
-# Certifications:
-* ISTQB Certified Tester Foundation Level (April, 2023)
 
 # Tech:
 * JavaScript
@@ -24,15 +13,17 @@ Hi, I'm Klaudia, and I'm a Junior Software Tester aspiring to specialize in test
 * CSS
 
 # Tools:
-* Jira
-* Redmine
-* Clickup
-* Trello
-* Postman
-* TestLink
-* qTest
+* Jira, Redmine
+* Postman, Insomnia
+* TestRail
+* Kafka, ActiveMQ
+* Jenkins
+* Docker
 * Chrome DevTools
-* GIT
+* GIT, Gitlab
+
+# Certifications:
+* ISTQB Certified Tester Foundation Level (April, 2023)
 
 # Courses:
 * Basics of Cypress - test automation - February, 2023
